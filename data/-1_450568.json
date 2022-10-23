@@ -1,0 +1,3027 @@
+[
+    {
+        "qtext": "题干： 在设备使用之前，是否要按要求进行登记？（ ）",
+        "qurl": "\\upload\\theme_picture\\5115173b280b3f3fc39ecdbe74b44866b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、是",
+            "B": "B、不用",
+            "C": "C、无所谓"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 移动式电动工具及其开关板（箱）的电源线必须采用（  ）。",
+        "qurl": "\\upload\\theme_picture\\9a5fcdb63d8d4b775acd4f9e01a963e8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、双层塑料铜芯绝缘导线",
+            "B": "B、双股铜芯塑料软线",
+            "C": "C、铜芯橡皮绝缘护套或铜芯聚氯乙烯绝缘护套软线"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 非机动车遇前方路口交通堵塞时，应当（  ）。",
+        "qurl": "\\upload\\theme_picture\\f5a248b6d1e1574b7aaa50412089db16b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、下车推行通过路口",
+            "B": "B、从人行横道内绕行通过路口",
+            "C": "C、不得进入路口"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 断开蓄电池电极时，应该（  ）。",
+        "qurl": "\\upload\\theme_picture\\f66421b25d90d81df9982a887d054329b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、先断开负极后断开正极",
+            "B": "B、先断开正极后断开负极"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 连接蓄电池电极时，应该（  ）。",
+        "qurl": "\\upload\\theme_picture\\3a9d58a4ce2b4daf0047dbf5f28f9a82b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、先接上负极后接上正极",
+            "B": "B、先接上正极后接上负极"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电动工具的电源引线，其中黄绿双色线应作为（  ）线使用。",
+        "qurl": "\\upload\\theme_picture\\102757fcd803864151481e195f0dda89b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、相",
+            "B": "B、工作零",
+            "C": "C、保护接地"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室安全管理实行（  ）级管理。",
+        "qurl": "\\upload\\theme_picture\\32b0608bf5d9dc5a61c93623ada61439b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、校、（院）系、实验室三级管理",
+            "B": "B、校、（院）系两级管理",
+            "C": "C、院（系）、实验室两级管理"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 保证电气检修人员人身安全最有效的措施是（  ）。",
+        "qurl": "\\upload\\theme_picture\\f0eecc368648ce35adbd1a3eceb57079b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、悬挂标示牌",
+            "B": "B、放置遮栏",
+            "C": "C、将检修设备接地并短路"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救易燃液体火灾时，应用（  ）。",
+        "qurl": "\\upload\\theme_picture\\9a82362563a57c4ad7dca89351cacec3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用灭火器",
+            "B": "B、用水泼",
+            "C": "C、扑打"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救烟灰缸里的杂物、废纸篓里的废纸片等初起小火时，错误的做法是（  ）。",
+        "qurl": "\\upload\\theme_picture\\efc518776c65aed1a77a1f87f3cb6dbbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用水或灭火器扑灭",
+            "B": "B、用手拍灭",
+            "C": "C、用湿毛巾覆盖"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在宿舍楼里你发现自己没带宿舍门的钥匙，应该（  ）。",
+        "qurl": "\\upload\\theme_picture\\fa940b32aae04528d030b9ca6d50cae4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、直接撬锁",
+            "B": "B、打114查询开锁公司电话",
+            "C": "C、找楼长",
+            "D": "D、用IC卡之类的卡片“谨慎”地自助"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 大型仪器一般都使用计算机进行控制，对该计算机除了在性能上能满足要求，在使用方面有何要求。",
+        "qurl": "\\upload\\theme_picture\\35586aa647c71513aa9cb0f33bd23d15b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、专机专用",
+            "B": "B、随便"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 公共娱乐场所安全出口的疏散门应（  ）。",
+        "qurl": "\\upload\\theme_picture\\b33cc7d572999db86c1af4c641a16166b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验大楼安全出口的疏散门应（  ）。",
+        "qurl": "\\upload\\theme_picture\\c2f1f5296bace7e073232264b6bfcd5cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 开展宗教活动应在（  ）进行。",
+        "qurl": "\\upload\\theme_picture\\388e3a115fa8bff9d29837477a990e9db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、宗教活动（包括传教）应在宗教场所（如教堂）等指定的场所进行",
+            "B": "B、宪法规定“宗教信仰自由”，所以宗教活动（包括传教）可以在学校和公共场所进行"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 由于行为人的过失引起火灾，造成严重后果的行为，构成（  ）。",
+        "qurl": "\\upload\\theme_picture\\c8622759cac4361fb8ad8a41fdfe4ee1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、纵火罪",
+            "B": "B、失火罪",
+            "C": "C、玩忽职守罪",
+            "D": "D、重大责任事故罪"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在设备使用之前，是否要按要求进行登记？（ ）",
+        "qurl": "\\upload\\theme_picture\\5115173b280b3f3fc39ecdbe74b44866b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、是",
+            "B": "B、不用",
+            "C": "C、无所谓"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在使用设备时，如果发现设备工作异常，应（ ）。",
+        "qurl": "\\upload\\theme_picture\\9bf77d19d86269e1c6d1948d7fcc2d5cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、停机并报告相关负责人员",
+            "B": "B、关机走人",
+            "C": "C、继续使用，注意观察"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 为防止静电火花引起事故，凡是用来加工、贮存、运输各种易燃气、液、粉体的设备的金属管、非导电材料管都必须（ ）。",
+        "qurl": "\\upload\\theme_picture\\1cd4b99946fa2faba818609551bdd604b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、有足够大的电阻",
+            "B": "B、有足够小的电阻",
+            "C": "C、可靠接地"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 公共娱乐场所安全出口的疏散门应（ ）。",
+        "qurl": "\\upload\\theme_picture\\8419099bae44570338ad97bf8c021c47b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 以下哪项技术不属于预防病毒技术的范畴？",
+        "qurl": "\\upload\\theme_picture\\7ae4f98481f461ba45c141881856eee9b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、加密可执行程序;",
+            "B": "B、引导区保护;",
+            "C": "C、系统监控与读写控制;",
+            "D": "D、校验文件"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 如何禁止Internet用户通过\\\\IP的方式访问主机？",
+        "qurl": "\\upload\\theme_picture\\5c9035a4c4f111dd59e10cd67e62d22eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、过滤135端口",
+            "B": "B、采用加密技术",
+            "C": "C、禁止TCP/IP上的Netbios",
+            "D": "D、禁止匿名"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 一般的防火墙不能实现以下哪项功能？",
+        "qurl": "\\upload\\theme_picture\\175588085958fd0bf3d25fbada7d7d0cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、隔离公司网络和不可信的网络",
+            "B": "B、防止病毒和特络依木马程序",
+            "C": "C、隔离内网",
+            "D": "D、提供对单点的监控"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 什么协议主要用于加密机制",
+        "qurl": "\\upload\\theme_picture\\2f45e0111eb371c548bcf508031c1cf9b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、HTTP",
+            "B": "B、FTP",
+            "C": "C、TELNET",
+            "D": "D、SSL"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 使网络服务器中充斥着大量要求回复的信息，消耗带宽，导致网络或系统停止正常服务，这属于什么攻击类型?",
+        "qurl": "\\upload\\theme_picture\\106d49a7d28c8ea95037dba6ef5ceca9b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、拒绝服务",
+            "B": "B、文件共享",
+            "C": "C、BIND漏洞",
+            "D": "D、远程过程调用"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 根据《移动帐号口令管理办法》的要求，用户应定期修改口令，期限为：",
+        "qurl": "\\upload\\theme_picture\\e373d1a5cc82e54d310c3339d53d4b16b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、90天",
+            "B": "B、180天",
+            "C": "C、一年",
+            "D": "D、任意期限"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 下列哪一个服务、命令或者工具让一个远程用户操作远程系统就像是操作本地终端系统一样？",
+        "qurl": "\\upload\\theme_picture\\18c46756e1b707c6aae70de2de9579dcb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、FTP",
+            "B": "B、FINGER",
+            "C": "C、NET USE",
+            "D": "D、TELNET"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 计算机病毒按破坏程度可分为破坏性病毒和干扰性病毒两类。",
+        "qurl": "\\upload\\theme_picture\\7dd140e7eea7d5e1af5ac961f6332dbbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 进入实验室工作前，要了解（  ），发生意外时能做好相应的自救工作。",
+        "qurl": "\\upload\\theme_picture\\f4d91c4b8d170f791b3dac601a74dce4b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、安全出口的位置",
+            "B": "B、易燃、易爆物品的位置",
+            "C": "C、冲眼器、紧急喷淋、急救药箱的位置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 关于安全用电，下列说法正确的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\68d7b4db6da59b48c812562c655a28e2b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、保险丝断了不一定是发生了短路",
+            "B": "B、使用测电笔时，手不能接触笔上任何金属",
+            "C": "C、只有高压线路才会发生触电",
+            "D": "D、有人触电是要用干燥绝缘物品拨开电线"
+        },
+        "ans": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 下列属于危险化学品的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\2823e244c8a9718057f363e73c1fececb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、爆炸品，易燃气体，易燃喷雾剂",
+            "B": "B、易燃液体，易燃固体，自反应物质",
+            "C": "C、可自燃液体，自燃自热物质，遇水放出易燃气体的物质",
+            "D": "D、氧化性液体，氧化性固体，有机过氧化物，金属腐蚀性"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 结构试验结束后，参试人员须注意（  ）。",
+        "qurl": "\\upload\\theme_picture\\f0d97490ddad034d7617a1368308bfc4b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、备份原始数据",
+            "B": "B、马上处理原始数据，检查试验效果",
+            "C": "C、在备份数据上继续进行分析工作"
+        },
+        "ans": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 实验开始前应该做好的准备有（  ）。",
+        "qurl": "\\upload\\theme_picture\\3fc1cb0cd4e48c418d866b636f84febdb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、必须认真预习，理清实验思路",
+            "B": "B、应仔细检查仪器是否有破损，掌握正确安装使用仪器的要点",
+            "C": "C、弄清水、电、气的管线开关和标记，保持清醒头脑，避免违规操作",
+            "D": "D、了解实验中使用的药品的性能和有可能引起的危害及相应的注意事项"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： “法轮功”等邪教的特征有（  ）。",
+        "qurl": "\\upload\\theme_picture\\51572ad29188965db01e5af78975f323b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、称具有无限的超自然能力，进行教主崇拜",
+            "B": "B、以批判社会、反政府、拯救人类为号召，大肆宣扬世界末日论",
+            "C": "C、通常采取与社会对抗的态度，采取集体自杀等手段戕害生害",
+            "D": "D、以谎言欺骗信徒，严格控制教徒的思想，聚敛信徒钱财"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 下列描述的行为中，属于电信诈骗的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\01b1a83747059d5dec3bf373e17e74d6b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、打电话冒充事主熟人诈骗",
+            "B": "B、退费退税诈骗",
+            "C": "C、各类虚假中奖诈骗",
+            "D": "D、网络购物诈骗",
+            "E": "E、手机短信诈骗",
+            "F": "F、虚假股票或投资理财“钓鱼”网站诈骗"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器适用于（  ）。",
+        "qurl": "\\upload\\theme_picture\\2194252e71ee87500c24946f61f86122b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、电器起火",
+            "B": "B、可燃气体起火",
+            "C": "C、有机溶剂起火"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 在校园内，当你遇到一年轻漂亮女子向你诉说凄惨遭遇，在寻亲（友）或财物丢失、被盗，希望得到你的帮助，下列做法错误的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\625fc09a7f9eb3bf604807c53b88ca8ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、动恻隐之心赠与钱物，并留下姓名、地址、电话等联系方式",
+            "B": "B、带其到食堂吃饭，为其安排住处",
+            "C": "C、立即报警",
+            "D": "D、与其他同学一起将其送到保卫部门"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电气设备发生火灾时，可带电灭火的器材有（  ）。",
+        "qurl": "\\upload\\theme_picture\\d4f2d968b2ff7f47fe308852decdadd8b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、二氧化碳",
+            "B": "B、干粉",
+            "C": "C、泡沫灭火器"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室发生紧急事故时，正确的应对策略是（  ）。",
+        "qurl": "\\upload\\theme_picture\\2e3b74fd0af1b296837e54497add35a4b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、发生大的突发事故后，人身安全才是最重要的，事故现场人员首先应尽快有序地从安全通道撤离，等事故得到控制之后再回来处理其他事情",
+            "B": "B、听从指挥",
+            "C": "C、发生小型着火事故，应防止火势蔓延（采取切断电源、移走易燃物品、灭火等措施）",
+            "D": "D、如被困室内（电梯内），应设法呼救"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 爆炸物品在发生爆炸时的特点有（  ）。",
+        "qurl": "\\upload\\theme_picture\\50d251a029b22f57310a143131ff209fb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、反应速度极快，通常在万分之一秒以内即可完成",
+            "B": "B、释放出大量的热",
+            "C": "C、通常产生大量的气体",
+            "D": "D、发出声响"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 突发公共事件依危害程度、紧急程度和发展态势一般分为四级：Ⅰ级（特别严重）、Ⅱ级（严重）、Ⅲ级（较重）、Ⅳ级(一般)，对应的四种颜色是（  ）。",
+        "qurl": "\\upload\\theme_picture\\add1fa8c132f628c37220f68da24c4c9b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、红",
+            "B": "B、橙红",
+            "C": "C、绿",
+            "D": "D、橙",
+            "E": "E、黄",
+            "F": "F、紫",
+            "G": "G、蓝"
+        },
+        "ans": [
+            "A",
+            "D",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "qtext": "题干： 高层学生宿舍火灾有（  ）特点。",
+        "qurl": "\\upload\\theme_picture\\73f8d95391bfbc138b24ee68d642c5b1b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、火势蔓延快",
+            "B": "B、学生数量大，疏散用时长",
+            "C": "C、被困学生逃生困难",
+            "D": "D、消防灭火困难"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 发生火灾拨通“119”后，应向“119”台报告（  ），并派人到适当位置迎接消防车到来。",
+        "qurl": "\\upload\\theme_picture\\c23b3b123c9e856f0da3d46a90f6d80ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、火灾详细地点",
+            "B": "B、火势大小",
+            "C": "C、燃烧物质及受影响的物质",
+            "D": "D、人员被困情况"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 作试验时，关合刀闸应当尽量慢以保护设备。",
+        "qurl": "\\upload\\theme_picture\\9139d1d6141c584a42e6a97b921db41eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 重复接地是指零线上的一处或多处通过接地装置与大地再连接，其安全作用是：降低漏电设备对地电压；减轻零线断线时的触电危险；缩短碰壳或接地短路持续时间；改善架空线路的防雷性能等。",
+        "qurl": "\\upload\\theme_picture\\795ddc248811d0ea9f625af20dda026fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 只要插线板质量符合要求，就可以随意串联很多个，不影响使用。",
+        "qurl": "\\upload\\theme_picture\\18dd6b874b52efeb6651b4baa4e004c1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在易燃、易爆、易灼烧及有静电发生的场所作业的人员，可以穿着化纤防护用品。",
+        "qurl": "\\upload\\theme_picture\\9149d6bf4721d7aca6a0c9ec5242e444b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在使用手电钻、电砂轮等手持电动工具时，为保证安全，应该装设漏电保护器。",
+        "qurl": "\\upload\\theme_picture\\9b4f355c108a76473ac15afa9fba0013b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在实验室进行有潜在危险的工作时，必须有第二者陪伴。",
+        "qurl": "\\upload\\theme_picture\\3cc79dd8a3bf9ae12e2a9c6fadfb0a60b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 遇有电器着火，应先切断电源再救火。",
+        "qurl": "\\upload\\theme_picture\\b70c332de6727a91b4b94b941f6ac181b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 遇火、遇潮容易燃烧、爆炸或产生有毒气体的化学危险品，不得在露天、潮湿、漏雨或低洼容易积水的地点存放。",
+        "qurl": "\\upload\\theme_picture\\f7647364f0c31dd248baa236f9aeb0c0b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 由于金属络合剂能与毒物中的金属离子形成稳定的化合物随尿液排出体外，故发生金属及其盐类中毒时，可采用各种金属络合剂解毒。",
+        "qurl": "\\upload\\theme_picture\\07e609791849a6cd44d044624946b410b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在清洁、维修仪器时，应先断电并确保无人能开启仪器。",
+        "qurl": "\\upload\\theme_picture\\fc6f358a3912c7dcd54fc149c1efc25db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在触电现场，若触电者已经没有呼吸或脉搏的表现，此时可以判定触电者已经死亡，从而放弃抢救。",
+        "qurl": "\\upload\\theme_picture\\fdafa836ab1ea276f44200cff4aacad7b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 易燃气体气瓶与明火距离不小于 5 米。",
+        "qurl": "\\upload\\theme_picture\\735504c12aee51d54a5ee6d85afd56a5b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 易燃固体与自燃物品不可以一同储存。",
+        "qurl": "\\upload\\theme_picture\\0f5bd08e6560a14889e87a51c66e9b4bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 一般有机物着火时，可以用水扑救，因为有机物与水可以互溶。",
+        "qurl": "\\upload\\theme_picture\\482d2768e4a94b2e220462856f164af4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 学生晚上回宿舍时，其在实验室的计算机主机应关闭，显示器一般不用关闭。",
+        "qurl": "\\upload\\theme_picture\\779b72d2738c2124dde8d5920523d298b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 消防器材要放置在明显和便于拿取的位置，严禁把消防器材移作他用。",
+        "qurl": "\\upload\\theme_picture\\9784587e0a61f0056e5a58085be55066b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 消防工作的方针是：“预防为主，防消结合”，实行消防安全责任制。",
+        "qurl": "\\upload\\theme_picture\\47b2058420d8e8f0bb6b63c5d2eeef46b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 为了防止触电可采用绝缘、防护、隔离等技术措施以保障安全。",
+        "qurl": "\\upload\\theme_picture\\5125b62a08c5910b6bf7142427d5203fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用手提灭火器时，拨掉保险销，握住胶管前端，对准燃烧物根部，用力压下压把，灭火剂喷出，就可灭火。",
+        "qurl": "\\upload\\theme_picture\\c3c3a3cb595896d2fe151481252adb99b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用电器时可以用两眼插头代替三眼插头。",
+        "qurl": "\\upload\\theme_picture\\e1827e4d7fd3650962d9aca904adeacbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验仪器使用时，要有人在场，不得擅自离开。",
+        "qurl": "\\upload\\theme_picture\\76fc4eb2156c503f86e9ecc6d4ddc2b1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内电气设备及线路设施必须严格符合安全用电规程，不许乱接、乱拉电线，墙上电源未经允许，不得拆装、改线。",
+        "qurl": "\\upload\\theme_picture\\e304622927a23fcb0506e315d4fe24dcb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室的电源总闸没有必要每天离开时都关闭，只要关闭常用电器的电源即可，经常开关总闸会缩短其使用寿命。",
+        "qurl": "\\upload\\theme_picture\\7e903613615b5a118e430a086f45a785b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室安全事故的表现形式主要有火灾、爆炸、毒害、触电、机械伤人和设备损坏。",
+        "qurl": "\\upload\\theme_picture\\7341025be27f48a1414355a473c04d0bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室安全工作的中心任务是防止发生人员伤亡和财产损失。",
+        "qurl": "\\upload\\theme_picture\\1d6ee0189e5378e6cddba86b36fb94dfb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验结束，要关闭设备，断开电源，并将有关实验用品整理好。",
+        "qurl": "\\upload\\theme_picture\\382d776dea97b2ab58b05f94ede05baab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验过程中应尽量避免实验仪器在夜间无人看管的情况下连续运转。如果必须在夜间使用，应严格检查实验仪器的自控装置、漏电保护装置及空气开关等，保证其工作正常。",
+        "qurl": "\\upload\\theme_picture\\8a3ab9c5381b0c53785d4c811675e3a2b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 湿手不能触摸带电的电器，不能用湿布擦拭使用中的电器。",
+        "qurl": "\\upload\\theme_picture\\026ee6d465bf2cb1f056ed52a0881780b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 全国消防宣传日是每年的11月9日。",
+        "qurl": "\\upload\\theme_picture\\9f37f449ba1f459e023e959a1db7fbeab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 切勿带电插、接电气线路。",
+        "qurl": "\\upload\\theme_picture\\518d3a652d817412c676a8cbee920d22b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 连接在插线板上的用电器总功率不能超过插线板的最大负荷。",
+        "qurl": "\\upload\\theme_picture\\f3296be6f9d2686d6dad29f99825176fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 静电可以引起爆炸、电气绝缘破坏、电子元器件击穿等。",
+        "qurl": "\\upload\\theme_picture\\ead34bf2e1303bc4145aa372c44c6dacb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 接临时电源要用合格的电源线，电源插头、插座要安全可靠，损坏的不能使用，电源线接头要用绝缘胶布包好。",
+        "qurl": "\\upload\\theme_picture\\f82129ba4c11bdbf324c362cf859fc8fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 高层建筑物发生火灾时，乘坐电梯疏散即快速又安全省力。",
+        "qurl": "\\upload\\theme_picture\\674dbee16196c23650710c7c572a7062b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 二氧化碳灭火器使用不当，可能会造成冻伤。",
+        "qurl": "\\upload\\theme_picture\\25002877eeec692f7140f260c7e36297b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电路保险丝（片）熔断，短时期内可以用铜丝或铁丝代替。",
+        "qurl": "\\upload\\theme_picture\\77e95e13cfc8b3fbe92aa7a41531c4bab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 地线和零线的作用相同。",
+        "qurl": "\\upload\\theme_picture\\da5e300407ff6bae72c8f88ee52a34a1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 当自己身上着火时，可就地打滚，将火压灭。",
+        "qurl": "\\upload\\theme_picture\\5986c48de7eb9b3ad0b5fd8e81b10b17b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当有人呼吸系统中毒时，应迅速使中毒者离开现场，移到通风良好的环境中，令中毒者呼吸新鲜空气，情况严重者应及时送医院治疗。",
+        "qurl": "\\upload\\theme_picture\\ab7a976848e5b38aec00c038488bfda8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当手、脚或身体沾湿或站在潮湿的地板上时，切勿启动电源开关和触摸电器用具。",
+        "qurl": "\\upload\\theme_picture\\0f6e50a18a39d076831721956c1874fcb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当发生火情时，应尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+        "qurl": "\\upload\\theme_picture\\9d0e575d81ff09b3f17ff407085855e8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大火封门无路可逃时，可用浸湿的被褥、衣物堵塞门缝，向门上泼水降温，以延缓火灾蔓延时间，呼叫待援。",
+        "qurl": "\\upload\\theme_picture\\fe0cca2fe790d6edb1532b7f7d28f176b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 不使用绝缘损坏或接地不良的电器设备。",
+        "qurl": "\\upload\\theme_picture\\dd40051ae1c1519279de662961ca1e02b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 安全事故处理应本着先人后物的原则，快速果断地处置。",
+        "qurl": "\\upload\\theme_picture\\3f24c247cb28c544f741a68d81a04d92b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 学生进入实验室，首先要了解实验室的安全注意事项。",
+        "qurl": "\\upload\\theme_picture\\47e0716b38511df9861e20aec7e0737fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 消防队在扑救火灾时，有权根据灭火的需要，拆除或者破损临近火灾现场的建筑。",
+        "qurl": "\\upload\\theme_picture\\af2ebe13ce9d77acffcf9234318ccb63b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 若被火场浓烟所困，并迅速起身跑出火场。",
+        "qurl": "\\upload\\theme_picture\\dfeca25416078d795aad98168cd7a226b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室必须配备符合本室要求的消防器材，消防器材要放置在明显或便于拿取的位置。严禁任何人以任何借口把消防器材移作它用。",
+        "qurl": "\\upload\\theme_picture\\29651b9cd5a2f68ec236dfc007ee7e75b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当发生火情时尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+        "qurl": "\\upload\\theme_picture\\2839f3a7973570c969a3dd38a54334acb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 焊接场地应预留安全通道并经常保持它的畅通。",
+        "qurl": "\\upload\\theme_picture\\0834c19fa1895a64e4b38a8239ec5f44b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室一旦出现火情，应立即大声呼叫，让周边的人能尽快能采取措施。",
+        "qurl": "\\upload\\theme_picture\\666ba0fd55329d87b58b81c130c31a4fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室一旦出现火情，应立即切断电源，积极进行灭火，火势无法控制时应马上逃离现场并迅速报警。",
+        "qurl": "\\upload\\theme_picture\\bdf8ec9a52e7c8885ffbb1dfdb2e9957b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 进行电路维护时不能进行带电操作。",
+        "qurl": "\\upload\\theme_picture\\523bdcb306d250ee6febdf6350f9226eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器的配备应视可能使用的环境而定。",
+        "qurl": "\\upload\\theme_picture\\e4455105ea0aad02d2754fa7299adfffb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器应定期进行检验。",
+        "qurl": "\\upload\\theme_picture\\db7222e3ff779b66837f3f3ac4bc70c4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器应定期进行更换。",
+        "qurl": "\\upload\\theme_picture\\98d0814362c598ce96b522bdb5dfe820b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大型仪器设备应认真填写开机时间、实验内容、指导人员、操作人员、使用维修情况等。",
+        "qurl": "\\upload\\theme_picture\\e0e61f88d2597784b8ea563d81cd95bfb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 所有实验设备运行均需要两名以上工作人员在场才能进行。",
+        "qurl": "\\upload\\theme_picture\\f334c0dde4a32abdec2caae069b01a0cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用大功率的实验设备前，要检查线路是否接地。",
+        "qurl": "\\upload\\theme_picture\\a8a754a6b6abd15a9031e6793ce69f7cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内可以抽烟。",
+        "qurl": "\\upload\\theme_picture\\d812e15b989781192900451b4108652fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在试验设备工作期间，可以离开去学习一会儿。",
+        "qurl": "\\upload\\theme_picture\\10761515c9074cf9dded2f30a9954e76b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验仪器运转时要有人在场，不得擅自离开。",
+        "qurl": "\\upload\\theme_picture\\d6b155d04f64d7381af61c8530589b79b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 下班离开实验室前,应关闭设备、关水、关电。",
+        "qurl": "\\upload\\theme_picture\\0899c726dc98b1af123068e27dc6ea27b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 试验机的计算机可以连接教育网或公共网。",
+        "qurl": "\\upload\\theme_picture\\86b8fbc82ec821a974ae5de88a7e0059b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 试验结束后，应该打扫卫生并运走废弃的试样或物品。",
+        "qurl": "\\upload\\theme_picture\\29712127de75467c3716ad1ec669ac63b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 进出专人管理的设备房间可以自己配制一把钥匙。",
+        "qurl": "\\upload\\theme_picture\\88a19603a3b8d57c018f5917b64fbc61b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 同样电压的直流电比交流电危害大。",
+        "qurl": "\\upload\\theme_picture\\b22c84c1aff7bcc07cf2b19d6f404c58b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 零线可以视为地线接到设备外壳上。",
+        "qurl": "\\upload\\theme_picture\\a367776d916c302dde8322f8f7ef33a3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验结束后，要关闭设备，断开电源，并将有关实验用品整理好。",
+        "qurl": "\\upload\\theme_picture\\d32c2fa0aa2089b5b6c0a180b89ea31db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验结束，离开实验室时要检查水、电、和门窗，确保安全。",
+        "qurl": "\\upload\\theme_picture\\fab859cac97381fdd581dd91534f8410b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内不许存放易燃、易爆物品，但可以堆放个人物品。",
+        "qurl": "\\upload\\theme_picture\\23511fea6a9d8dab153f0d3a8893eb77b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 用水时要禁止跑、冒、滴、漏现象存在",
+        "qurl": "\\upload\\theme_picture\\7c63244bc9e6d34b8d6229e182409269b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 损坏了仪器、设备必须立即向教师报告。",
+        "qurl": "\\upload\\theme_picture\\f26663d8617b57bb4a6fda0ec0d6e01fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 发现被盗或人为破坏，应保护现场并立即报告保卫处。",
+        "qurl": "\\upload\\theme_picture\\507fa2a8684c274be5bb9f13f8258754b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 事故发生后，应迅速将警戒区内与事故无关的人员撤离，以减轻潜在危害。",
+        "qurl": "\\upload\\theme_picture\\9904e7f90d3c9dd69d1f0b3592864a0bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 安全事故处理应本着快速处置，先人后物的原则，果断地、坚决地做好工作。",
+        "qurl": "\\upload\\theme_picture\\75582ab19c705003958c539e3cfede2fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用精密仪器时，必须严格按照操作规程进行操作，细心谨慎，避免因粗心大意而损坏仪器。如发现仪器有故障，应立即停止使用，报告教师，及时排除故障。使用后必须自觉填写登记本。",
+        "qurl": "\\upload\\theme_picture\\f3f6cffd4f2cefe758e1a95a7665dc4cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大型设备运行需要两名以上工作人员在场才能进行。",
+        "qurl": "\\upload\\theme_picture\\c3652bd4d5005a8561f1d66d5c83f9f4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 仪器设备开机前要先阅读熟悉该机器设备的操作规程。",
+        "qurl": "\\upload\\theme_picture\\9028c6a85f68f822e296c7fccbd5fd26b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 可以使用试验机的计算机连接教育网或公共网。",
+        "qurl": "\\upload\\theme_picture\\8bd2c5ca3e5bd761351f11c422b03b4bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 测试数据应进行异地备份。",
+        "qurl": "\\upload\\theme_picture\\5584b175b532dffe371395e7d25a8c6eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在大型结构实验室从事研究工作的人员需在指定区域内工作。",
+        "qurl": "\\upload\\theme_picture\\d474f34dd21cb6820778d8b74b8c0c80b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验过程中如发生意外或事故，应冷静妥善地处理，尽量把事故解决在萌芽状态。如事故较为严重，有危及人身安全可能时，应及时撤离现场，并通知邻近实验室工作人员迅速撤离，并尽快报警。",
+        "qurl": "\\upload\\theme_picture\\323887c05165b103f513047bfd823cacb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 未经允许不得随意拆卸实验仪器及零部件。",
+        "qurl": "\\upload\\theme_picture\\3a535a97ede6d25e2b21c9d914a51c16b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 下班离开实验室前应关闭设备关水关电。",
+        "qurl": "\\upload\\theme_picture\\bcea86e96fe998f89cf35565051b3d96b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 学生、新工作人员进实验室之前要参加安全教育和培训，经院系、实验室培训、考核合格后方可进入实验室工作；学生要在导师指导下开展实验研究。",
+        "qurl": "\\upload\\theme_picture\\42c07d109bb08c8083dcd50abac1dedfb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在实验室工作的人员务必遵守学校及实验室的各项规章制度和仪器设备的操作规程，做好安全防护。",
+        "qurl": "\\upload\\theme_picture\\1235281d4c994b2183c75c07bcac5570b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 要经常保持实验室环境的整洁卫生，做到地面、桌面、设备三清洁。",
+        "qurl": "\\upload\\theme_picture\\d5f8ba6c590bf15a1b1c7a960aa597eeb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 每天下班前检查实验室门、窗是否关好，电气线路、通风设备、饮水设施等是否已切断电源。",
+        "qurl": "\\upload\\theme_picture\\f62d2923511a4243af06f160d37abbd0b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室安全工作的中心任务是防止发生人员伤亡和财产损失。",
+        "qurl": "\\upload\\theme_picture\\400b86e288073f2f8a261444a38c34d1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 校园内禁止吸烟，但可以在教学楼的厕所内或在宿舍阳台上吸烟 。",
+        "qurl": "\\upload\\theme_picture\\f1047c015c51dab2903136d197808f75b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 浏览BBS等虚拟社区时，可以匿名发表一些带有攻击性的言论，或者反动、迷信的内容。",
+        "qurl": "\\upload\\theme_picture\\6ea79673e965bcbb7835b952b401a0efb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 遭遇暴力抢劫时要保持镇定，在未危及生命安全的情况下，不要硬拼。",
+        "qurl": "\\upload\\theme_picture\\5fc45e224a37abad2569105006d99607b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大火封门时，可用浸湿的被褥、衣物堵塞门缝，向门上泼水降温，以延缓火灾蔓延，呼叫待援。",
+        "qurl": "\\upload\\theme_picture\\3a555bf347a94afa46d54f8c6aa820c7b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器使用不当，可能会造成冻伤。",
+        "qurl": "\\upload\\theme_picture\\2de43edaedce1ef617f529561f4051d6b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 发现宿舍楼的电闸箱起火，可以用楼内的消防栓灭火。",
+        "qurl": "\\upload\\theme_picture\\6bc2c965dfdf503b7c10db1c88fc319bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 当实验室有人发生触电事故时，应首先要使触电者迅速脱离电源 。",
+        "qurl": "\\upload\\theme_picture\\3a790c24070a9e744b6e51d69f0c32abb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 人体触电，双手触电致死比单手触电致死的概率要大得多。",
+        "qurl": "\\upload\\theme_picture\\ff798fffa8e3e8874c0e360c9930996db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电击（触电）通常指因为人体接触带电的线路或设备而受到伤害的事故。为了避免电击（触电）事故的发生，设备须可靠接地和人体对地绝缘。",
+        "qurl": "\\upload\\theme_picture\\62296cfac6c9e6b6ebc3cae3456b6d0eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 连接在接线板上的用电总负荷不能超过接线板的最大容量。",
+        "qurl": "\\upload\\theme_picture\\e774583f67b636ea3bcf30195f903d2ab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电动工具应定期检修。",
+        "qurl": "\\upload\\theme_picture\\cd4b9f30660e6455d17c47a7b86b7a86b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 只要接线板质量符合要求，就可以随意串联很多个，不影响使用。",
+        "qurl": "\\upload\\theme_picture\\5e1a3637d0b796e5d2c803f815d82b78b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室禁止私拉乱接电线，实验过程中自制非标设备时，应报请实验室管理人员批准，然后请电气专业人员按照标准安全的连接。",
+        "qurl": "\\upload\\theme_picture\\018c1f2f2e1d1a76007f4ad6aafff790b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 连接电气设备的开关需安装在火线上。",
+        "qurl": "\\upload\\theme_picture\\5eaf022460932b141250e3a2dff0d6abb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 布线时,强、弱电可以合用同一电缆管线。",
+        "qurl": "\\upload\\theme_picture\\f84948311fb2fff79c4c782a0c05fd9bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在三相四线制供电系统中，不允许一部分设备接零，而另一部分设备采用保护接地？",
+        "qurl": "\\upload\\theme_picture\\fc17ecb302f32ceca6ff8b6331406d12b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电气设备着火，首先必须采取的措施是灭火。",
+        "qurl": "\\upload\\theme_picture\\f1a7d1660ae877a6e82e4bedf9e2f5bfb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 搬动风扇、照明灯和移动电焊机等电气设备时，应在切断电源的情况下进行。",
+        "qurl": "\\upload\\theme_picture\\45dc3335502ef79f01f0fe39da39f626b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 短路电流使短路处甚至使整个电路过热，会使导线的绝缘层燃烧起来，并引燃周围建筑物内的可燃物。",
+        "qurl": "\\upload\\theme_picture\\ef546d7dc7694f15ac0adc156b413bc8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 避雷针、避雷网、消雷器是用于防止直击雷的保护装置。",
+        "qurl": "\\upload\\theme_picture\\0bc1cc1dfbc3641ffbd906a1fa941943b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 触电紧急救护时，首先应使触电者脱离电源，然后立即进行人工呼吸。",
+        "qurl": "\\upload\\theme_picture\\bd3a153cd5c77559b7b2cd69c763d36bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 保险丝断了，可以用细铜丝代替。",
+        "qurl": "\\upload\\theme_picture\\6f8c3243816d3312166fe99837b82423b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 一定程度的电场，磁场，电磁场都可能对人有损害。",
+        "qurl": "\\upload\\theme_picture\\a0cbfdebb5a29ccbc23675bf747e00f2b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 室内发生电气火灾，应立即报警然后进行扑救。",
+        "qurl": "\\upload\\theme_picture\\7169d12a2542cdc6f2f99c2ba44aaeb8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 身边有人严重触电，应当首先切断电源，然后进行紧急抢救如人工呼吸，并立即拨打急救电话120或999。",
+        "qurl": "\\upload\\theme_picture\\8ffd4db34410d0da32be521227d14bd9b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当断线落地或大电流从接地装置流入大地时，若人站在附近则可能在两脚之间产生跨步电压。",
+        "qurl": "\\upload\\theme_picture\\e0fdbb0039b059cab4d8958f21bfe68cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 任何电气设备在未验明无电时，一律认为有电，不能盲目触及。",
+        "qurl": "\\upload\\theme_picture\\1e77e39d6d8fe8b7b98a0548a3449fe4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 对于在易燃、易爆、易灼烧及有静电发生的场所作业的工人，可以发放和使用化纤防护用品。",
+        "qurl": "\\upload\\theme_picture\\d65e30c728e2dd2f42ce4408b521c124b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 有人低压触电时，应该立即伸手将他拉开。",
+        "qurl": "\\upload\\theme_picture\\b70b17ab73fee94ab213870b2a267710b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内可用电炉、电加热器取暖。",
+        "qurl": "\\upload\\theme_picture\\f01aa00c099d2eeb290ecbe62b990df4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电器或线路着火，要先切断电源，再用干粉灭火器或气体灭火器灭火，不可直接泼水灭火，以防触电或电器爆炸伤人。",
+        "qurl": "\\upload\\theme_picture\\bbb59f3c06bb207d4cc24d160fcbc48db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 进行电器维修必须先关掉电源再进行修理。",
+        "qurl": "\\upload\\theme_picture\\999b24516372c7d28b7fad8894ccb063b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在实验室同时使用多种电器设备时，应计算所有用电的总容量，它应小于实验室的设计容量。",
+        "qurl": "\\upload\\theme_picture\\603cc81f64052faf392bafcc5e93b2c3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 插拔电器插头时手要保持干燥。",
+        "qurl": "\\upload\\theme_picture\\ba79c99bf3993711a01a27adc3c30ba6b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 漏电保护器既可用来保护人身安全，还可用来对低压系统或设备的绝缘状况起到监督作用；漏电保护器安装点以后的线路应是对地 绝缘的，线路应是对地绝缘良好。",
+        "qurl": "\\upload\\theme_picture\\f8f44a4069e3cb556bd27bfaa7b46e0eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电流对人体的伤害有两种类型，即电击和电伤。",
+        "qurl": "\\upload\\theme_picture\\39815e9c07f544ec5439cc5937ed0781b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 用电安全的基本要素有：电气绝缘、安全距离、设备及其导体载流量、明显和准确的标志。",
+        "qurl": "\\upload\\theme_picture\\7887138bcbd3537d097e85b68295e66fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 保险丝和自动开关可以有效地防止电气火灾。",
+        "qurl": "\\upload\\theme_picture\\11eb57251eaa41dbf90ef95fa215078eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 设备和人体都对地绝缘。",
+        "qurl": "\\upload\\theme_picture\\8aea23a9216d8039bade738284836d87b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内可以使用电炉等取暖、做饭。",
+        "qurl": "\\upload\\theme_picture\\3c27bdfcf57550bcb2fbaf36c2f5b6eab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 公共密钥密码体制在密钥管理上比对称密钥密码体制更为安全。",
+        "qurl": "\\upload\\theme_picture\\4f2dbd1fe13a7df4d7effde71779a166b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： Su命令的作用是在不同的用户之间进行切换。",
+        "qurl": "\\upload\\theme_picture\\27fd9a846257f4918b744860f37da437b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： root用户通过su命令切换到别的用户不需要密码,而别的用户之间需要输入密码。",
+        "qurl": "\\upload\\theme_picture\\a494fd92635f7efce246c9e31f2afb61b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在Linux/Unix系统中使用mv命令进行移动时可以一次移动多个文件。",
+        "qurl": "\\upload\\theme_picture\\7a4eef1bfaaa0e1423470e4bbc7b62ffb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： linux系统的用户名和密码存放在/etc/passwd文件中？",
+        "qurl": "\\upload\\theme_picture\\d8f6ddbe7a86a53248bb37af6e280374b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 最小特权、纵深防御是网络安全原则之一。",
+        "qurl": "\\upload\\theme_picture\\e8a5acf4157adbcfdcde7f012beb2d7cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 开放性是UNIX系统的一大特点。",
+        "qurl": "\\upload\\theme_picture\\7e9dbc1ebac399aa824276857e904b55b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 密码保管不善属于操作失误的安全隐患。",
+        "qurl": "\\upload\\theme_picture\\fb9289cccd680fb672b6b153dd8fc864b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： WIN2000系统给NTFS格式下的文件加密，当系统被删除，重新安装后，原加密的文件就不能打开了。",
+        "qurl": "\\upload\\theme_picture\\228821d17838519cf36a9d16439b723fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 计算机网络由通信子网子网和计算机（资源）子网组成。",
+        "qurl": "\\upload\\theme_picture\\b475a259f3a82dd0f5737d2c7bd6160eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 为防止宿舍发生被盗案件，你应（  ）。",
+        "qurl": "\\upload\\theme_picture\\0f8b9091396a5c5a7943c9963e719fbfb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、离开宿舍时将窗户关好，用钥匙反锁门",
+            "B": "B、宿舍不能随便留宿外人",
+            "C": "C、贵重物品（笔记本电脑等）不用时锁在柜子里",
+            "D": "D、在楼道里发现可疑的陌生人要主动盘问，发现问题及时报告楼长"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 心肺复苏操作步骤中的“CAB”分别指（  ）。",
+        "qurl": "\\upload\\theme_picture\\286255167b66bcda4aef02edc758d630b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、摸颈动脉",
+            "B": "B、胸外按压",
+            "C": "C、畅通气道",
+            "D": "D、人工呼吸"
+        },
+        "ans": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 在有人触电时，借助符合相应电压等级的绝缘工具可采用（  ）使触电人员脱离低压。",
+        "qurl": "\\upload\\theme_picture\\7eda3cc1bdd1d6ea13861b0cb0b09ba2b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、切断电源",
+            "B": "B、割断电源线",
+            "C": "C、挑拉电源线",
+            "D": "D、借助工具使触电者脱离电源"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 实验完成后离开实验室时应进行检查（  ）。",
+        "qurl": "\\upload\\theme_picture\\e3e84c6bd68f0031937813e0d33df522b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、切断房间内所有电源",
+            "B": "B、关闭房间内所有水源",
+            "C": "C、观察房间内是否还有灯亮",
+            "D": "D、静听房间内有无声音"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 摩擦是产生静电一种主要原因，尤其在干燥的环境中，人体的活动和物体的移动都会产生很强的静电，静电在突然释放的时候会对人体或设备造成损伤。下列选项中防止静电事故的主要办法有（  ）。",
+        "qurl": "\\upload\\theme_picture\\eea7f1082d3b4a3dafee6774ce2029f6b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、人体接触对静电敏感设备时提前释放自己身体中积累的电荷，例如带静电防护手环、使用静电防护毯",
+            "B": "B、在重要场合铺设防静电地板",
+            "C": "C、增加空气中的湿度，降低静电产生的条件",
+            "D": "D、用电设备都良好接地",
+            "E": "E、保证电路良好的绝缘"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 日常安全用电包括（  ）。",
+        "qurl": "\\upload\\theme_picture\\511629c36b34a2fcb4c30e7768f36d63b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、人走关灯",
+            "B": "B、每天下班拔掉计算机电源插头",
+            "C": "C、功率型用电设备要随时有人看守",
+            "D": "D、上班过程中只要不用电就关掉电源"
+        },
+        "ans": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 学生宿舍里发现可疑人员，应采取（  ）。",
+        "qurl": "\\upload\\theme_picture\\0ac13e23ece949679126b968e85cd66bb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、态度和气、主动地上前询问",
+            "B": "B、强行要求查看其有效身份证件",
+            "C": "C、置之不理",
+            "D": "D、将情况报告楼长或楼下保安"
+        },
+        "ans": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 结伴旅游登山时,下面做法合理的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\451538d337b58190390b5bae017ca9e1b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、提前规划旅游路线,充分熟悉路况",
+            "B": "B、提前了解自己的身体状况,并携带相关药物",
+            "C": "C、独自一个人离开队伍去见识“奇观异景”",
+            "D": "D、随时关注天气情况，做好相应准备",
+            "E": "E、将行程告知家长或同学、老师并保持联系"
+        },
+        "ans": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "qtext": "题干： 网络交友、网络聊天等活动逐渐普及。QQ作为一种网络通信工具，下列做法有助于保护自己的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\54906a1cbdc896ff37ac5f3733f8ccf8b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、填写QQ个人资料时，注意加强个人保护意识，以免不良分子对个人生活造成不必要的骚扰",
+            "B": "B、在不了解对方的情况下应尽量避免和网友直接会面或参与各种联谊活动",
+            "C": "C、觉得和对方聊得很开心就把电话、地址告诉对方",
+            "D": "D、不参与有害和无用信息的制作和传播"
+        },
+        "ans": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 被火困在高楼室内应（  ）。",
+        "qurl": "\\upload\\theme_picture\\a34f4f7bf674d2a91415061f0378b840b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、跳楼",
+            "B": "B、到窗口或阳台挥动物品求救",
+            "C": "C、躲到床下",
+            "D": "D、用床单或绳子拴在室内牢固处下到下一层逃生"
+        },
+        "ans": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 下列描述的现象中，存在火情隐患的有（  ）。",
+        "qurl": "\\upload\\theme_picture\\ebe6d8873a0d4bc4a52857ecd99f7f6ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、在宿舍内使用电炉、热得快等大功率电器",
+            "B": "B、在宿舍内乱拉乱接电线",
+            "C": "C、在宿舍点火蚊香",
+            "D": "D、台灯靠近枕头和被褥"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 防火墙的主要技术有哪些？",
+        "qurl": "\\upload\\theme_picture\\03b5fa85156a83a0b0c9d47cfdc6c195b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、简单包过滤技术",
+            "B": "B、状态检测包过滤技术",
+            "C": "C、应用代理技术",
+            "D": "D、复合技术",
+            "E": "E、地址翻译技术"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "qtext": "题干： 防火墙有哪些部属方式？",
+        "qurl": "\\upload\\theme_picture\\db2c7c839c62cf1660ad00bc78a59312b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、透明模式",
+            "B": "B、路由模式",
+            "C": "C、混合模式",
+            "D": "D、交换模式"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 关于防火墙的功能，以下（）描述是正确的。",
+        "qurl": "\\upload\\theme_picture\\36402da733798e641d1868dad640373ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、防火墙可以检查进出内部网的通信量",
+            "B": "B、错",
+            "C": "C、防火墙可以使用过滤技术在网络层对数据包进行选择",
+            "D": "D、防火墙可以阻止来自内部的威胁和攻击"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 网络信息安全的基本要求是什么？",
+        "qurl": "\\upload\\theme_picture\\8fc81cf3c7ffc05eb767b16bd2159c8fb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、数据的保密性",
+            "B": "B、数据的完整性",
+            "C": "C、数据的可用性",
+            "D": "D、数据的可控性"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 病毒自启动方式一般有：",
+        "qurl": "\\upload\\theme_picture\\8fa15235bd38a091c1cc9db521d48ec3b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、修改注册表",
+            "B": "B、将自身添加为服务",
+            "C": "C、将自身添加到启动文件夹",
+            "D": "D、修改系统配置文件"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内的插座距地面的高度一般不低于（  ）。",
+        "qurl": "\\upload\\theme_picture\\2641ee17148d37170e3f67505ecd1937b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、0.3米",
+            "B": "B、0.2米",
+            "C": "C、0.1米",
+            "D": "D、0.5米"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 车间内的明、暗插座距地面的高度一般不低于（  ）。",
+        "qurl": "\\upload\\theme_picture\\9702f0e44b126e0d7dfaaa46d365b79db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、0.3米",
+            "B": "B、0.2米",
+            "C": "C、0.1米"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 正常情况下一个标志为10A的单项电源插座，可以承载的负载是（  ）。",
+        "qurl": "\\upload\\theme_picture\\27f00bcead2afeb418b9789765311b0cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、1000W",
+            "B": "B、2000W",
+            "C": "C、3000W",
+            "D": "D、4000W"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 通过人身的安全直流电流是（  ）。",
+        "qurl": "\\upload\\theme_picture\\7f594adf6db9cb46e4c8486eb21539a3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、10mA",
+            "B": "B、50mA",
+            "C": "C、100mA",
+            "D": "D、500mA"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 通过人身的安全交流电流是（  ）。",
+        "qurl": "\\upload\\theme_picture\\56c1258220894eca7faf68e793091459b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、10mA",
+            "B": "B、50mA",
+            "C": "C、100mA",
+            "D": "D、500mA"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 三项电源线间电压是（  ）。",
+        "qurl": "\\upload\\theme_picture\\03ebc6e53e8d35f32af6062c2904272eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、110V",
+            "B": "B、220V",
+            "C": "C、380V"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 一般电热水壶的耗电为（  ）。",
+        "qurl": "\\upload\\theme_picture\\9deb437bed93a4ddc1879a2071796a06b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、200W左右",
+            "B": "B、500W左右",
+            "C": "C、800W以上"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 安全电压最高是（  ）。",
+        "qurl": "\\upload\\theme_picture\\051478b3a2668a7a3ed5d33bb6666568b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、24V",
+            "B": "B、36V",
+            "C": "C、42V",
+            "D": "D、60V"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 从安全角度考虑，设备停电必须有一个明显的（  ）。",
+        "qurl": "\\upload\\theme_picture\\53b3545e7c8bfc849a58a1c5443e855cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、标示牌",
+            "B": "B、接地处",
+            "C": "C、断开点"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 发生电器着火应（  ）。",
+        "qurl": "\\upload\\theme_picture\\f6aea083f22be679dfd1608f98a54339b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、别管它，赶紧跑",
+            "B": "B、保障安全的情况下先灭火，然后关电源",
+            "C": "C、保障安全情况下先关掉电源，然后灭火"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 安全电压插座上插孔的形状是（  ）。",
+        "qurl": "\\upload\\theme_picture\\3fae1325093dc5201e1685ef3a4563d0b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、并列两孔",
+            "B": "B、任意三孔",
+            "C": "C、圆形三孔"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 设备使用需要地线而房间里没有时可以（  ）。",
+        "qurl": "\\upload\\theme_picture\\e1e50127f9334495a685ffcc110e838fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、不接地线",
+            "B": "B、将地线搭在暖气管上",
+            "C": "C、把地线连接在零线上",
+            "D": "D、找电路维护人员解决"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 从火灾现场撤离时，应采取（  ）。",
+        "qurl": "\\upload\\theme_picture\\ee056580d5f4446cf354574d491982bbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、乘坐电梯",
+            "B": "B、用湿毛巾捂住口鼻低姿从安全通道撤离"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 被电击的人能否获救，关键在于（  ）。",
+        "qurl": "\\upload\\theme_picture\\a5c04192d9a808e7c5f324051a5e5104b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、触电的方式",
+            "B": "B、人体电阻的大小",
+            "C": "C、触电电压的高低",
+            "D": "D、能否尽快脱离电源和施行紧急救护"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 漏电保护器的使用是防止（  ）。",
+        "qurl": "\\upload\\theme_picture\\cac59cdff9ed205a04aad6ce7aad8c36b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、触电事故",
+            "B": "B、电压波动",
+            "C": "C、电流过大"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 发现燃气泄漏，正确做法是（  ）。",
+        "qurl": "\\upload\\theme_picture\\2d7d2bf5a58dafc69d01a686354ab0efb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、触动电器开关或拨打电话",
+            "B": "B、使用明火",
+            "C": "C、迅速关阀门，打开门窗"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 发生电气火灾后，首先应该采取的第一条措施是（  ）。",
+        "qurl": "\\upload\\theme_picture\\e1d237a828569c09810256aee201a910b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、打电话报警",
+            "B": "B、切断电源",
+            "C": "C、扑灭明火",
+            "D": "D、保护现场，分析火因，以便采取措施，杜绝隐患"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 当打开房门闻到燃气气味时，要迅速（  ），以防止引起火灾。",
+        "qurl": "\\upload\\theme_picture\\315e32e89b45d6893a5f1c0f6676594bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、打开燃气灶具查找漏气部位",
+            "B": "B、打开门窗通风"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 废旧计算机等设备，不再使用后，应（  ）。",
+        "qurl": "\\upload\\theme_picture\\cc64dc8fea65f472cbdad3b5034aa953b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、堆放在角落里",
+            "B": "B、拆下可用的零部件后直接扔掉",
+            "C": "C、交给设备处进行报废处理",
+            "D": "D、直接处理给废品收购站"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 实验间仪器着火应使用的灭火器是（  ）。",
+        "qurl": "\\upload\\theme_picture\\f6831b0eb405e49c2e79573059bb681db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、二氧化碳灭火器",
+            "B": "B、泡沫灭火器",
+            "C": "C、干粉灭火器",
+            "D": "D、1211灭火器"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 下列灭火器中，最适于扑灭电气火灾的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\51f4c6a399f482bd6aaf2cbcf4483d35b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、二氧化碳灭火器",
+            "B": "B、干粉灭火器",
+            "C": "C、泡沫灭火器"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电线插座损坏时，将会引起（  ）。",
+        "qurl": "\\upload\\theme_picture\\9867949302e00f6060bfee5a7e16016bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、工作不方便",
+            "B": "B、不美观",
+            "C": "C、触电伤害"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 如果在试验过程中，闻到烧焦的气味应（  ）。",
+        "qurl": "\\upload\\theme_picture\\c72c849f82bbab71d6d8bc42fd9efa47b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、关机走人",
+            "B": "B、打开通风装置通风",
+            "C": "C、立即断电并报告相关负责人员",
+            "D": "D、请同实验的人帮忙检查"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 当在宿舍发现自己的笔记本电脑被盗后，应（  ）。",
+        "qurl": "\\upload\\theme_picture\\65f1704e951737ef8c3b8c538938b2c1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、叫来宿舍全体室友开会讨论对策",
+            "B": "B、怀疑是xx同学所为，趁他不在，私自翻他柜子查看",
+            "C": "C、立即报警，并保护好现场"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器不适宜扑救（  ）。",
+        "qurl": "\\upload\\theme_picture\\88b71517101c21e94b85bce2c89c169cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、金属燃烧",
+            "B": "B、石油产品",
+            "C": "C、有机溶剂",
+            "D": "D、油漆"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 身上着火应（  ）。",
+        "qurl": "\\upload\\theme_picture\\bbdbac8b6c8e2692d613c7538aeaa8c1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、就地打滚",
+            "B": "B、奔跑"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 关于饮食安全，下列说法正确的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\9fdbdc2d438c85b545c1aeb2f883d411b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、可以在实验室喝水、吃东西",
+            "B": "B、切过生食的菜刀、菜板不能用来切熟食",
+            "C": "C、高温可以杀死很多病菌，食用煮熟的病死的禽畜肉是安全的"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 三线电缆中的红线代表的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\68b9e1ae4358790e0a3e682cfbd55280b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、零线",
+            "B": "B、火线",
+            "C": "C、地线"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 如果仪器设备的工作电压不详，能否使用。（  ）",
+        "qurl": "\\upload\\theme_picture\\1fbae4e5e2fbf848eb93fb0a0d2adfceb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、能",
+            "B": "B、不能"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 触电事故中，绝大部分导致人身伤亡的是（   ）。",
+        "qurl": "\\upload\\theme_picture\\70f62365f4ffe5a05a8e9f9bf2d92b29b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、人体接受电流遭到电击",
+            "B": "B、电压",
+            "C": "C、电场"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大型仪器一般都使用计算机进行控制，计算机与仪器之间的数据传输线一般在何种情况下进行装卸。",
+        "qurl": "\\upload\\theme_picture\\b6afd2aaad2d87b1eeba160390393c96b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、任意时刻，想何时就何时装卸",
+            "B": "B、在仪器及计算机电源关闭的情况下装卸数据传输线",
+            "C": "C、在仪器处于工作状态时，装卸数据传输线",
+            "D": "D、在计算机处于工作状态时，装卸数据传输线"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 使用灭火器扑救火灾时，要对准火焰（  ）喷射。",
+        "qurl": "\\upload\\theme_picture\\ebec8d0f0570e1484f125ed41a55b11cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、上部",
+            "B": "B、中部",
+            "C": "C、根部"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 在室外灭火时，应站在什么位置？",
+        "qurl": "\\upload\\theme_picture\\b3dcfe61b276ef68697a92389e60c514b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、上风处",
+            "B": "B、下风处",
+            "C": "C、都可以"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 配电盘（箱）、开关、变压器等各种电气设备附近不得（  ）。",
+        "qurl": "\\upload\\theme_picture\\f6a67d516cc8c55b74f05c93efaf1af6b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、设放灭火器",
+            "B": "B、设置围栏",
+            "C": "C、堆放易燃、易爆、潮湿和其他影响操作的物件"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 施工现场照明设施的接电应采取的防触电措施为（  ）。",
+        "qurl": "\\upload\\theme_picture\\18a475bcb598db18e1cf743e88a14179b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、湿手操作",
+            "B": "B、切断电源",
+            "C": "C、站在铁登子上"
+        },
+        "ans": [
+            "B"
+        ]
+    }
+]

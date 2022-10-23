@@ -1,0 +1,1202 @@
+[
+    {
+        "qtext": "题干： 扑灭电器火灾不宜使用的灭火器材是（ ）。",
+        "qurl": "\\upload\\theme_picture\\d50306b82450d4d51b38dd16ef8817a8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、二氧化碳灭火器",
+            "B": "B、干粉灭火器",
+            "C": "C、泡沫灭火器",
+            "D": "D、灭火砂"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 由于行为人的过失引起火灾，造成严重后果的行为，构成（ ）。",
+        "qurl": "\\upload\\theme_picture\\631372aaf3b9375fd680cd29ed37a66fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、纵火罪",
+            "B": "B、失火罪",
+            "C": "C、玩忽职守罪",
+            "D": "D、重大责任事故罪"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 公共娱乐场所安全出口的疏散门应（ ）。",
+        "qurl": "\\upload\\theme_picture\\8419099bae44570338ad97bf8c021c47b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火的四种方法是（ ）。",
+        "qurl": "\\upload\\theme_picture\\c936bb49160d46596b6d368174ae8ef6b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、捂盖法、扑打法、浇水法、隔开法",
+            "B": "B、扑灭法、救火法、化学法、泡沫法",
+            "C": "C、隔离法、窒息法、冷却法、化学抑制法"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救易燃液体火灾时，应用（ ）。",
+        "qurl": "\\upload\\theme_picture\\5125d439cd97324075cf6e8f90420b8db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用灭火器",
+            "B": "B、用水泼",
+            "C": "C、扑打"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 由于行为人的过失引起火灾，造成严重后果的行为，构成（  ）。",
+        "qurl": "\\upload\\theme_picture\\c8622759cac4361fb8ad8a41fdfe4ee1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、纵火罪",
+            "B": "B、失火罪",
+            "C": "C、玩忽职守罪",
+            "D": "D、重大责任事故罪"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验大楼安全出口的疏散门应（  ）。",
+        "qurl": "\\upload\\theme_picture\\c2f1f5296bace7e073232264b6bfcd5cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 公共娱乐场所安全出口的疏散门应（  ）。",
+        "qurl": "\\upload\\theme_picture\\b33cc7d572999db86c1af4c641a16166b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、自由开启",
+            "B": "B、向外开启",
+            "C": "C、向内开启"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救烟灰缸里的杂物、废纸篓里的废纸片等初起小火时，错误的做法是（  ）。",
+        "qurl": "\\upload\\theme_picture\\efc518776c65aed1a77a1f87f3cb6dbbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用水或灭火器扑灭",
+            "B": "B、用手拍灭",
+            "C": "C、用湿毛巾覆盖"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救易燃液体火灾时，应用（  ）。",
+        "qurl": "\\upload\\theme_picture\\9a82362563a57c4ad7dca89351cacec3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用灭火器",
+            "B": "B、用水泼",
+            "C": "C、扑打"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火的四种方法是（  ）。",
+        "qurl": "\\upload\\theme_picture\\8cd391c6df941039c10f42aa75ae5c79b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、捂盖法、扑打法、浇水法、隔开法",
+            "B": "B、扑灭法、救火法、化学法、泡沫法",
+            "C": "C、隔离法、窒息法、冷却法、化学抑制法"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 使用灭火器扑救火灾时，要对准火焰（  ）喷射。",
+        "qurl": "\\upload\\theme_picture\\ebec8d0f0570e1484f125ed41a55b11cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、上部",
+            "B": "B、中部",
+            "C": "C、根部"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 带电电器设备发生火灾时不能用（   ）扑救。",
+        "qurl": "\\upload\\theme_picture\\f4967aea78d30c9d90bf8012241e5469b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、卤代烷",
+            "B": "B、水",
+            "C": "C、干粉"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 身上着火应（  ）。",
+        "qurl": "\\upload\\theme_picture\\bbdbac8b6c8e2692d613c7538aeaa8c1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、就地打滚",
+            "B": "B、奔跑"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器不适宜扑救（  ）。",
+        "qurl": "\\upload\\theme_picture\\88b71517101c21e94b85bce2c89c169cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、金属燃烧",
+            "B": "B、石油产品",
+            "C": "C、有机溶剂",
+            "D": "D、油漆"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室仪器设备用电或线路发生故障着火时，应立即（  ），并组织人员用灭火器进行灭火。",
+        "qurl": "\\upload\\theme_picture\\755778d45125b560e594e4b212f8333bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、将贵重仪器设备迅速转移",
+            "B": "B、切断现场电源",
+            "C": "C、将人员疏散"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 下列物质中，二氧化碳灭火器不适宜扑救（  ）。",
+        "qurl": "\\upload\\theme_picture\\06a528b0ace85714e71375d821ac219db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、贵重仪器设备",
+            "B": "B、档案资料",
+            "C": "C、计算机",
+            "D": "D、钾、钠、镁、铝等物质"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 实验间仪器着火应使用的灭火器是（  ）。",
+        "qurl": "\\upload\\theme_picture\\f6831b0eb405e49c2e79573059bb681db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、二氧化碳灭火器",
+            "B": "B、泡沫灭火器",
+            "C": "C、干粉灭火器",
+            "D": "D、1211灭火器"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 扑灭电器火灾不宜使用的灭火器材是（  ）。",
+        "qurl": "\\upload\\theme_picture\\e932c69d7900e82d8863dcad3a853c15b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、二氧化碳灭火器",
+            "B": "B、干粉灭火器",
+            "C": "C、泡沫灭火器",
+            "D": "D、灭火砂"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 当打开房门闻到燃气气味时，要迅速（  ），以防止引起火灾。",
+        "qurl": "\\upload\\theme_picture\\315e32e89b45d6893a5f1c0f6676594bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、打开燃气灶具查找漏气部位",
+            "B": "B、打开门窗通风"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 发生电气火灾后，首先应该采取的第一条措施是（  ）。",
+        "qurl": "\\upload\\theme_picture\\e1d237a828569c09810256aee201a910b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、打电话报警",
+            "B": "B、切断电源",
+            "C": "C、扑灭明火",
+            "D": "D、保护现场，分析火因，以便采取措施，杜绝隐患"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 从火灾现场撤离时，应采取（  ）。",
+        "qurl": "\\upload\\theme_picture\\ee056580d5f4446cf354574d491982bbb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、乘坐电梯",
+            "B": "B、用湿毛巾捂住口鼻低姿从安全通道撤离"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在火灾初发阶段，应采取的撤离方法有（  ）。",
+        "qurl": "\\upload\\theme_picture\\03bf93e3fe67b538951dbef77d7d5179b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、乘坐电梯",
+            "B": "B、用湿毛巾捂住口鼻低姿从安全通道撤离",
+            "C": "C、跳楼逃生",
+            "D": "D、跑到楼顶呼救"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 发生电器着火应（  ）。",
+        "qurl": "\\upload\\theme_picture\\f6aea083f22be679dfd1608f98a54339b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、别管它，赶紧跑",
+            "B": "B、保障安全的情况下先灭火，然后关电源",
+            "C": "C、保障安全情况下先关掉电源，然后灭火"
+        },
+        "ans": [
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 纸的燃点大概是（ ）",
+        "qurl": "\\upload\\theme_picture\\82ab67938c195c869b76c3ad699cd1d5b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、50—170℃",
+            "B": "B、130——250℃",
+            "C": "C、200—320℃",
+            "D": "D、330—450℃"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 下列选项中属于防爆的措施有（ ）。",
+        "qurl": "\\upload\\theme_picture\\9cdd4917466b65bc69d45cd3fe64fe6db.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、控制可燃物形成爆炸性混合物",
+            "B": "B、防止形成爆炸性混合物的化学品泄漏",
+            "C": "C、消除火源",
+            "D": "D、安装检测和报警装置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 购买管制类药品时，必须（ ）。",
+        "qurl": "\\upload\\theme_picture\\3b7cd06f133e801693e8a9f4e9114d3db.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、向资产管理处申请并批准备案",
+            "B": "B、经过公安局审批",
+            "C": "C、通过正常渠道在指定的化学危险品商店购买"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 下列选项中，属于防爆的措施有（ ）。",
+        "qurl": "\\upload\\theme_picture\\83e224179696f9ef3c605810502bfa0fb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、控制可燃物形成爆炸性混合物",
+            "B": "B、防止形成爆炸性混合物的化学品泄漏",
+            "C": "C、消除火源",
+            "D": "D、安装检测和报警装置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 物质燃烧必须同时具备的条件是（ ）。",
+        "qurl": "\\upload\\theme_picture\\c6e4d11315b6473ea110ea2c13ebce90b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、着火源",
+            "B": "B、助燃物",
+            "C": "C、温度",
+            "D": "D、可燃物"
+        },
+        "ans": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 被火困在高楼室内应（ ）。",
+        "qurl": "\\upload\\theme_picture\\175791a2d1059a3d44c3bc94293fb299b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、跳楼",
+            "B": "B、到窗口或阳台挥动物品求救",
+            "C": "C、躲到床下",
+            "D": "D、用床单或绳子拴在室内牢固处下到下一层逃生"
+        },
+        "ans": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器适用于（ ）。",
+        "qurl": "\\upload\\theme_picture\\d0eb07b829e1441527f88c8fc0d6fc84b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、电器起火",
+            "B": "B、可燃气体起火",
+            "C": "C、有机溶剂起火"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 物质燃烧必须同时具备的条件是（  ）。",
+        "qurl": "\\upload\\theme_picture\\1ee19c2cfda2c68509dcfd752d1ad032b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、着火源",
+            "B": "B、助燃物",
+            "C": "C、温度",
+            "D": "D、可燃物"
+        },
+        "ans": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 购买剧毒药品时，必须（   ）。",
+        "qurl": "\\upload\\theme_picture\\dd7d9eeb975c19ab8427f71e3d070dc1b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、向单位保卫部门申请并批准备案",
+            "B": "B、经过公安局审批",
+            "C": "C、通过正常渠道在指定的化学危险品商店购买"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 被火困在高楼室内应（  ）。",
+        "qurl": "\\upload\\theme_picture\\a34f4f7bf674d2a91415061f0378b840b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、跳楼",
+            "B": "B、到窗口或阳台挥动物品求救",
+            "C": "C、躲到床下",
+            "D": "D、用床单或绳子拴在室内牢固处下到下一层逃生"
+        },
+        "ans": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 火灾蔓延的途径有（  ）。",
+        "qurl": "\\upload\\theme_picture\\84afb555ab9bc7279eba79d2802a2fedb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、热传导",
+            "B": "B、热对流",
+            "C": "C、热辐射"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 下列选项中属于防爆的措施有（  ）。",
+        "qurl": "\\upload\\theme_picture\\844c8ae7c24e922a50650c8277785c69b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、控制可燃物形成爆炸性混合物",
+            "B": "B、防止形成爆炸性混合物的化学品泄漏",
+            "C": "C、消除火源",
+            "D": "D、安装检测和报警装置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 下列选项中，属于防爆的措施有（  ）。",
+        "qurl": "\\upload\\theme_picture\\abd7b2ffb9f63279561f6e9a796a769cb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、控制可燃物形成爆炸性混合物",
+            "B": "B、防止形成爆炸性混合物的化学品泄漏",
+            "C": "C、消除火源",
+            "D": "D、安装检测和报警装置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 进入公共场所，应注意细心观察场所的疏散情况，记住（  ）以利于发生火灾情况下紧急疏散。",
+        "qurl": "\\upload\\theme_picture\\a6bad49bced39d323fc498decbadcaf9b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、进出口位置",
+            "B": "B、安全出口位置",
+            "C": "C、疏散通道楼梯的方位",
+            "D": "D、电梯的位置"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 发生火灾拨通“119”后，应向“119”台报告（  ），并派人到适当位置迎接消防车到来。",
+        "qurl": "\\upload\\theme_picture\\c23b3b123c9e856f0da3d46a90f6d80ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、火灾详细地点",
+            "B": "B、火势大小",
+            "C": "C、燃烧物质及受影响的物质",
+            "D": "D、人员被困情况"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 高层学生宿舍火灾有（  ）特点。",
+        "qurl": "\\upload\\theme_picture\\73f8d95391bfbc138b24ee68d642c5b1b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、火势蔓延快",
+            "B": "B、学生数量大，疏散用时长",
+            "C": "C、被困学生逃生困难",
+            "D": "D、消防灭火困难"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 影响混合物爆炸极限的因素有（  ）。",
+        "qurl": "\\upload\\theme_picture\\178aca080d4c5d2af1176812a220f9cab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、混合物的温度",
+            "B": "B、混合物的压力",
+            "C": "C、混合物的含氧量",
+            "D": "D、容器的大小",
+            "E": "E、混合物的多少"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 发生电器火灾时可以使用的灭火设备包括（  ）。",
+        "qurl": "\\upload\\theme_picture\\01604ce35bbbfdd447ef627751c9e418b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、干粉灭火器",
+            "B": "B、泡沫灭火器",
+            "C": "C、二氧化碳灭火器",
+            "D": "D、灭火水龙"
+        },
+        "ans": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： ABC干粉灭火器适用于（  ）。",
+        "qurl": "\\upload\\theme_picture\\056fdce52bbd6d10259a3f5bfb74e38ab.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、电器起火",
+            "B": "B、可燃气体起火",
+            "C": "C、有机溶剂起火"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器适用于（  ）。",
+        "qurl": "\\upload\\theme_picture\\2194252e71ee87500c24946f61f86122b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、电器起火",
+            "B": "B、可燃气体起火",
+            "C": "C、有机溶剂起火"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 下列描述中，正确安全使用台灯的有（  ）。",
+        "qurl": "\\upload\\theme_picture\\5b84cccfe2e6d7929ce70ca3bfae51a8b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、灯泡功率不得超过60瓦",
+            "B": "B、不能用纸做灯罩",
+            "C": "C、远离可燃物"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 预防学生宿舍火灾，应注意（  ）。",
+        "qurl": "\\upload\\theme_picture\\dfa130a4ede1bf33fbe09f32f02f01f9b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、不在宿舍使用“热得快”等违章电器",
+            "B": "B、不在宿舍使用酒精炉",
+            "C": "C、不躺卧吸烟和乱扔烟头，最好不在宿舍抽烟",
+            "D": "D、离开宿舍时拔下电源插头"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 电褥子是用电热线和普通棉纺织布做成的，如果使用不当很容易发生火灾，使用中应注意（  ）。",
+        "qurl": "\\upload\\theme_picture\\e5b26d2bbcd0a4fc9df7bdcff223d7b6b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、不可长期通电使用",
+            "B": "B、不可折叠使用",
+            "C": "C、不可用水洗",
+            "D": "D、不可在弹性和伸缩性较大的床上使用"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 干粉灭火器上压力表指针指示在绿区，这灭火器也可能是失效的。",
+        "qurl": "\\upload\\theme_picture\\510255432cd1271095e8ea6363d7391bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 为使用方便，学生应在宿舍中存放大量现金。",
+        "qurl": "\\upload\\theme_picture\\aa82e91c036b93a2c380f4bfdbc0081bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 遭遇暴力抢劫时要保持镇静，不到危及生命安全的时候，不要硬拼。",
+        "qurl": "\\upload\\theme_picture\\abd940f72da1cafa2995f2c9ab1f8a40b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在ATM机上操作时，对于靠近的人，礼貌地提醒他站在一米线外。",
+        "qurl": "\\upload\\theme_picture\\50a43ec3114913c6b0ef6be3aed8d274b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 火灾发生后，当所有的逃生线路被大火封锁时，应立即退回室内，用手电筒、挥舞衣物、呼叫等方式向窗外发送求救信号，等待救援。",
+        "qurl": "\\upload\\theme_picture\\27677a2f67758a928111d2af6aeea56cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在熟睡时，听到火警信号后正确的做法是：1、用手试一试门是否热，如是冷的，可开门逃生；2、准备好湿毛巾；3、切勿随意跳楼，自制救生绳索后再设法安全着落；4、利用自然条件作为救生滑道。",
+        "qurl": "\\upload\\theme_picture\\6e54d4c31dbeb4a0b9bda5b20f4c0e2fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验大楼出现火情时千万不要乘电梯，因为电梯可能因停电或失控，同时又因“烟囱效应”，电梯井常常成为浓烟的流通道。",
+        "qurl": "\\upload\\theme_picture\\52efef2a00bc67b93f748ffc7195a694b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 可以在低压线路和开关、插座、熔断器附近放置油类、棉花、木屑、木材等易染物品。",
+        "qurl": "\\upload\\theme_picture\\a32035ce27324788f61711dd45088ea5b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电气线路着火，要先切断电源，再用干粉灭火器或二氧化碳灭火器灭火，不可直接泼水灭火，以防触电或电气爆炸伤人。",
+        "qurl": "\\upload\\theme_picture\\f6a2467170d7e5e6ddeea6a79044b5ffb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 火灾对实验室构成的威胁最为严重，最为直接，应加强对火灾三要素（易燃物、助燃物、点火源）的控制。",
+        "qurl": "\\upload\\theme_picture\\7e97470e260bca62f88a983b9434af9eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 煤气用后一定关好，如发现实验室内有煤气味应立即开窗、自然通风，并且此时禁止使用明火。",
+        "qurl": "\\upload\\theme_picture\\8d425f82d62062f876a3a5ab1c5d5014b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器应定期进行更换。",
+        "qurl": "\\upload\\theme_picture\\98d0814362c598ce96b522bdb5dfe820b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器应定期进行检验。",
+        "qurl": "\\upload\\theme_picture\\db7222e3ff779b66837f3f3ac4bc70c4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 灭火器的配备应视可能使用的环境而定。",
+        "qurl": "\\upload\\theme_picture\\e4455105ea0aad02d2754fa7299adfffb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 发生车辆着火时，应立即用灭火器向起火点处喷射灭火，火势不可控制时人员应马上撤离，并迅速报警。",
+        "qurl": "\\upload\\theme_picture\\3cc59ab70a424c599f94d03026ae617fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 爆炸是所有化学危险品的一个重要性质。",
+        "qurl": "\\upload\\theme_picture\\d6e92d3f42a7af78ea91f7b55d3020dab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 爆炸是指物质瞬间突然发生物理或化学变化，同时释放出大量的气体和能量（光能、热能、机械能）并伴有巨大声响的现象。",
+        "qurl": "\\upload\\theme_picture\\25bfbc5fbf7893bc9268d4444176e7b2b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 遇湿易燃物品与自燃物品可以同库存放。",
+        "qurl": "\\upload\\theme_picture\\eaa077b6115a7b4f9cfac91260b3bfd1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 当发生火情时尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+        "qurl": "\\upload\\theme_picture\\2839f3a7973570c969a3dd38a54334acb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室必须配备符合本室要求的消防器材，消防器材要放置在明显或便于拿取的位置。严禁任何人以任何借口把消防器材移作它用。",
+        "qurl": "\\upload\\theme_picture\\29651b9cd5a2f68ec236dfc007ee7e75b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 一般有机物着火时可以用水扑救，因为有机物与水可以互溶。",
+        "qurl": "\\upload\\theme_picture\\a4be4199606508bd6a7978d1049fafc8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 若被火场浓烟所困，并迅速起身跑出火场。",
+        "qurl": "\\upload\\theme_picture\\dfeca25416078d795aad98168cd7a226b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救液体火灾时，应用灭火器扑救，不能用水扑救或其它物品扑打。",
+        "qurl": "\\upload\\theme_picture\\3690b00fe7182e544026bcf3d3de504ab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 消防队在扑救火灾时，有权根据灭火的需要，拆除或者破损临近火灾现场的建筑。",
+        "qurl": "\\upload\\theme_picture\\af2ebe13ce9d77acffcf9234318ccb63b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 安装在有爆炸危险场所的灯具应该是防爆型的。",
+        "qurl": "\\upload\\theme_picture\\83457e0e6598880b6cffc5081257f4f1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 大火封门无路可逃时，可用浸湿的被褥、衣物堵塞门缝，向门上泼水降温，以延缓火灾蔓延时间，呼叫待援。",
+        "qurl": "\\upload\\theme_picture\\fe0cca2fe790d6edb1532b7f7d28f176b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当发生火情时，应尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+        "qurl": "\\upload\\theme_picture\\9d0e575d81ff09b3f17ff407085855e8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当自己身上着火时，可就地打滚，将火压灭。",
+        "qurl": "\\upload\\theme_picture\\5986c48de7eb9b3ad0b5fd8e81b10b17b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 二氧化碳灭火器使用不当，可能会造成冻伤。",
+        "qurl": "\\upload\\theme_picture\\25002877eeec692f7140f260c7e36297b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 扑救液体火灾时，应该使用灭火器扑救，不能用水扑救或用其他物品扑打。",
+        "qurl": "\\upload\\theme_picture\\ca8bb1210b42107853e1c6f6897a50d2b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 全国消防宣传日是每年的11月9日。",
+        "qurl": "\\upload\\theme_picture\\9f37f449ba1f459e023e959a1db7fbeab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用手提灭火器时，拨掉保险销，握住胶管前端，对准燃烧物根部，用力压下压把，灭火剂喷出，就可灭火。",
+        "qurl": "\\upload\\theme_picture\\c3c3a3cb595896d2fe151481252adb99b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 消防工作的方针是：“预防为主，防消结合”，实行消防安全责任制。",
+        "qurl": "\\upload\\theme_picture\\47b2058420d8e8f0bb6b63c5d2eeef46b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 消防器材要放置在明显和便于拿取的位置，严禁把消防器材移作他用。",
+        "qurl": "\\upload\\theme_picture\\9784587e0a61f0056e5a58085be55066b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 一般有机物着火时，可以用水扑救，因为有机物与水可以互溶。",
+        "qurl": "\\upload\\theme_picture\\482d2768e4a94b2e220462856f164af4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 易燃固体与自燃物品不可以一同储存。",
+        "qurl": "\\upload\\theme_picture\\0f5bd08e6560a14889e87a51c66e9b4bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 易燃气体气瓶与明火距离不小于 5 米。",
+        "qurl": "\\upload\\theme_picture\\735504c12aee51d54a5ee6d85afd56a5b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 遇有电器着火，应先切断电源再救火。",
+        "qurl": "\\upload\\theme_picture\\b70c332de6727a91b4b94b941f6ac181b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在易燃、易爆、易灼烧及有静电发生的场所作业的人员，可以穿着化纤防护用品。",
+        "qurl": "\\upload\\theme_picture\\9149d6bf4721d7aca6a0c9ec5242e444b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 燃烧必须具备可燃物、助燃物和点火源三大条件，缺一不可。因此，可以采取尽量隔离的方式来防止实验室火灾的发生。",
+        "qurl": "\\upload\\theme_picture\\76e4f7840833113a45cc53adee520c13b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室内可以使用电炉、微波炉、电磁炉、电饭煲等取暖、做饭。",
+        "qurl": "\\upload\\theme_picture\\13bd63b4315e33fb5e92aeb9e298023eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 不得在冰箱、烘箱等加热、产热设备附近放置纸板、化学试剂、气体钢瓶等物品。",
+        "qurl": "\\upload\\theme_picture\\65b2f38cd9330796a4ad411e62f8261eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 不得堵塞实验室逃生通道。",
+        "qurl": "\\upload\\theme_picture\\d611cc5c1d7a06501505323175497f63b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "qtext": "题干： 切割机可以作为砂轮机使用",
+        "qurl": "\\upload\\theme_picture\\4b9bed62a7840735606e92f24c172eacb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 手持式电钻操作时须戴手套等防护用品,确保人身安全",
+        "qurl": "\\upload\\theme_picture\\18fae1ddb1c08c66574545e437f94d51b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 使用者可以自己拆修手持电动工具",
+        "qurl": "\\upload\\theme_picture\\ff4ada831bc4c32bc8718723dcc70612b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 手持式电钻使用中出现严重发热或漏电现象,应停止使用",
+        "qurl": "\\upload\\theme_picture\\bf15d010945daa62263702a11e0d069fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在模型制作实验室，如操作过程中引起灰尘和碎屑，应佩戴手套、口罩，穿好工作服，带好护目镜；女同学则要将头发盘起戴上工作帽",
+        "qurl": "\\upload\\theme_picture\\36e6269b12432f183213d965525a6127b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用手持电钻钻孔时应按钻头大小和钻孔深度施加力量,如发现钻头超常抖动以及有异声应立即停止操作",
+        "qurl": "\\upload\\theme_picture\\a5f7deded07923fe30d36a7a10396e59b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 电动工具的存放可以与酸碱性化学腐蚀品放在一起",
+        "qurl": "\\upload\\theme_picture\\6cecdf632ab776e504596a3f210133f8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电动工具的存放和借用要指定专人负责管理,做到定人使用",
+        "qurl": "\\upload\\theme_picture\\a6334211c55f3fed4422685f2d5c0b7db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 数控切割机不得进行强力切锯操作,在切割前要使电机达到全速状态",
+        "qurl": "\\upload\\theme_picture\\88817382cf88e3e8ead25c782837017eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用者在使用数控切割机时可以根据自己的需求自行更换刀头",
+        "qurl": "\\upload\\theme_picture\\d54785e60b077cd6c4daed5811cc131db.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 电烤箱在加热时，门可以开着",
+        "qurl": "\\upload\\theme_picture\\3dd30fefc5f7ac9f9be0e46e9fec66c0b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 不得在热喷枪、烘箱等加热、产热设备附近放置纸板、化学试剂、气体钢瓶等物品",
+        "qurl": "\\upload\\theme_picture\\1925ea6a124aea157506992187e51fd3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 未经指导教师许可，不得搬弄仪器、设备，以及擅自开始实验。实验时，应注意安全，按要求操作，如发现异常立即停止",
+        "qurl": "\\upload\\theme_picture\\c77e702ea77d637ac579e50e63fca1d4b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室的接线板远离可能有水的位置和高温环境",
+        "qurl": "\\upload\\theme_picture\\f7e2d4278b2de4607f3e06e81de16578b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 模型制作使用的电动工具有哪些",
+        "qurl": "\\upload\\theme_picture\\9a2b6728839134280929a47ba02276eeb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、砂轮机",
+            "B": "B、手持电钻",
+            "C": "C、电动曲线锯",
+            "D": "D、热喷枪"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 下列哪些情况下不允许进入实验室操作电动工具",
+        "qurl": "\\upload\\theme_picture\\97584a3457b1fdee40e530dc8b1cd369b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、心情不好、状态不佳",
+            "B": "B、未经过必要的设备培训",
+            "C": "C、同时操作其他设备时",
+            "D": "D、饮酒后"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室电器设备所引起的火灾，应",
+        "qurl": "\\upload\\theme_picture\\efaf9a50ca384d476586972595687ad7b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用水灭火",
+            "B": "B、用二氧化碳或干粉灭火器灭火",
+            "C": "C、用泡沫灭火器灭火"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 进行危险性实验时，应",
+        "qurl": "\\upload\\theme_picture\\31229f397a1b567e2dec2592f9e90b13b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、单人操作",
+            "B": "B、必须要有两人以上",
+            "C": "C、必须要有三人"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 下面哪个方法是错误的",
+        "qurl": "\\upload\\theme_picture\\77f7ebe82c68babd1f7cd696e756b0a8b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、每次使用前检查工具",
+            "B": "B、了解制造商的建议",
+            "C": "C、将有缺陷的工具留存以备将来不时之需",
+            "D": "D、根据需要磨尖及改造工具"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 当使用手持电动工具时须遵循以下",
+        "qurl": "\\upload\\theme_picture\\a0e6da0a1269dd4d839ff8a3e28ef749b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、根据工作选择合适的工具",
+            "B": "B、根据用户手册来操作工具",
+            "C": "C、如遇问题，立即停止并及时反馈"
+        },
+        "ans": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 以下哪些工具不属于电动工具",
+        "qurl": "\\upload\\theme_picture\\8b783fe4ed3c35857836fb2f2fa0f9abb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、砂轮机",
+            "B": "B、热喷枪",
+            "C": "C、曲线锯",
+            "D": "D、扳手"
+        },
+        "ans": [
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 以下哪些是不正确的手持电动工具使用方法",
+        "qurl": "\\upload\\theme_picture\\d3f26c2361d6e0779617274d2a84726eb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、将锋利的工具装进口袋",
+            "B": "B、小心保养工具，保持整体锋利",
+            "C": "C、保持电线软管远离火源、油、水以及刃面",
+            "D": "D、电动工具用完即放置在工作台，未及时断电"
+        },
+        "ans": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "qtext": "题干： 如何检查砂轮裂缝",
+        "qurl": "\\upload\\theme_picture\\b9c82200c3ec7d142c6391aa5d0679b1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、用锤子敲",
+            "B": "B、用金属棒轻敲",
+            "C": "C、用非金属棒轻敲",
+            "D": "D、目视检查"
+        },
+        "ans": [
+            "B"
+        ]
+    }
+]

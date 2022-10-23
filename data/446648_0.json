@@ -1,0 +1,446 @@
+[
+    {
+        "qtext": "题干： 在使用设备时，如果发现设备工作异常，应（ ）。",
+        "qurl": "\\upload\\theme_picture\\9bf77d19d86269e1c6d1948d7fcc2d5cb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、停机并报告相关负责人员",
+            "B": "B、关机走人",
+            "C": "C、继续使用，注意观察"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在设备使用之前，是否要按要求进行登记？（ ）",
+        "qurl": "\\upload\\theme_picture\\5115173b280b3f3fc39ecdbe74b44866b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、是",
+            "B": "B、不用",
+            "C": "C、无所谓"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在使用设备时，如果发现设备工作异常，应（  ）。",
+        "qurl": "\\upload\\theme_picture\\034d1ce7fedfe4f5bc823073d914f714b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、停机并报告相关负责人员",
+            "B": "B、关机走人",
+            "C": "C、继续使用，注意观察"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在设备使用之前，是否要按要求进行登记？（  ）",
+        "qurl": "\\upload\\theme_picture\\731b3db916742a2daa9ce34d490d684bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "A、是",
+            "B": "B、不用",
+            "C": "C、无所谓"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 结构试验结束后，参试人员须注意（ ）。",
+        "qurl": "\\upload\\theme_picture\\08f022cd0ba5ce18ae483f64ee6e65efb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、备份原始数据",
+            "B": "B、马上处理原始数据，检查试验效果",
+            "C": "C、在备份数据上继续进行分析工作"
+        },
+        "ans": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 当结构试验的量测点较多时，应采取（ ）。",
+        "qurl": "\\upload\\theme_picture\\0477c3675b18ac779658f9ded2144881b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、试验前完成测点布置图",
+            "B": "B、列出测点号与量测通道号相互关系的表格",
+            "C": "C、仅口头告诉数据采集人员各测点编号即可"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 下列对参加试验的教师和学生的描述正确的是（ ）。",
+        "qurl": "\\upload\\theme_picture\\c6f470f4eb8ddb6f7decf16d70d963adb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、可以自由使用各类加载设备",
+            "B": "B、由专门人员操作加载设备",
+            "C": "C、部分加载设备经过培训后可以由参试的师生自己操作"
+        },
+        "ans": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 在结构实验室遇到人工无法搬运的物体时应（ ）。",
+        "qurl": "\\upload\\theme_picture\\ada7bcaaafbc515eb1188d03eb205b0eb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、自己开起重设备",
+            "B": "B、由专人开起重设备",
+            "C": "C、经专门培训、获得资质证书、并经实验室负责人允许可以使用起重设备"
+        },
+        "ans": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 从事结构破坏试验的过程中需按要求（ ）。",
+        "qurl": "\\upload\\theme_picture\\20b45eede11f452616dea3bc65db0e74b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、戴安全帽",
+            "B": "B、穿长袖工作服",
+            "C": "C、穿绝缘鞋"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 在结构实验室遇到人工无法搬运的物体时应（  ）。",
+        "qurl": "\\upload\\theme_picture\\0519665d1ff3291b29155e206d93aff7b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、自己开起重设备",
+            "B": "B、由专人开起重设备",
+            "C": "C、经专门培训、获得资质证书、并经实验室负责人允许可以使用起重设备"
+        },
+        "ans": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 当结构试验的量测点较多时，应采取（  ）。",
+        "qurl": "\\upload\\theme_picture\\c3e4fe63188d8bfd98c72359ec53a01eb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、试验前完成测点布置图",
+            "B": "B、列出测点号与量测通道号相互关系的表格",
+            "C": "C、仅口头告诉数据采集人员各测点编号即可"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 下列对参加试验的教师和学生的描述正确的是（  ）。",
+        "qurl": "\\upload\\theme_picture\\cf4339e1dcb266ae7b50f7db28e32b8fb.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、可以自由使用各类加载设备",
+            "B": "B、由专门人员操作加载设备",
+            "C": "C、部分加载设备经过培训后可以由参试的师生自己操作"
+        },
+        "ans": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 从事结构破坏试验的过程中需按要求（  ）。",
+        "qurl": "\\upload\\theme_picture\\aefb1121440940b8a24f4ac6386fed63b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、戴安全帽",
+            "B": "B、穿长袖工作服",
+            "C": "C、穿绝缘鞋"
+        },
+        "ans": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 结构试验结束后，参试人员须注意（  ）。",
+        "qurl": "\\upload\\theme_picture\\f0d97490ddad034d7617a1368308bfc4b.jpeg",
+        "qtype": "多选题",
+        "opts": {
+            "A": "A、备份原始数据",
+            "B": "B、马上处理原始数据，检查试验效果",
+            "C": "C、在备份数据上继续进行分析工作"
+        },
+        "ans": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "qtext": "题干： 砂轮打磨时应戴防护眼镜，避免铁屑飞入眼睛。",
+        "qurl": "\\upload\\theme_picture\\bef5e5b9fd3ca0366d93bbcca3faa65eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 使用光学仪器时要小心操作，注意不要用手触摸光学镜面，避免划伤光学镜头或镜面。",
+        "qurl": "\\upload\\theme_picture\\d4fca2b76d6590020f018795a172684bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 高校实验室发生安全事故的主要原因有操作不慎、设备老化、自然灾害、网络攻击和监管不力。",
+        "qurl": "\\upload\\theme_picture\\020d1bbc3af7b94a260fef295ca635ebb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室安全工作的中心任务是防止发生人员伤亡和财产损失。",
+        "qurl": "\\upload\\theme_picture\\400b86e288073f2f8a261444a38c34d1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 每天下班前检查实验室门、窗是否关好，电气线路、通风设备、饮水设施等是否已切断电源。",
+        "qurl": "\\upload\\theme_picture\\f62d2923511a4243af06f160d37abbd0b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 要经常保持实验室环境的整洁卫生，做到地面、桌面、设备三清洁。",
+        "qurl": "\\upload\\theme_picture\\d5f8ba6c590bf15a1b1c7a960aa597eeb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在实验室工作的人员务必遵守学校及实验室的各项规章制度和仪器设备的操作规程，做好安全防护。",
+        "qurl": "\\upload\\theme_picture\\1235281d4c994b2183c75c07bcac5570b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 学生、新工作人员进实验室之前要参加安全教育和培训，经院系、实验室培训、考核合格后方可进入实验室工作；学生要在导师指导下开展实验研究。",
+        "qurl": "\\upload\\theme_picture\\42c07d109bb08c8083dcd50abac1dedfb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 下班离开实验室前应关闭设备关水关电。",
+        "qurl": "\\upload\\theme_picture\\bcea86e96fe998f89cf35565051b3d96b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 未经允许不得随意拆卸实验仪器及零部件。",
+        "qurl": "\\upload\\theme_picture\\3a535a97ede6d25e2b21c9d914a51c16b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 实验过程中如发生意外或事故，应冷静妥善地处理，尽量把事故解决在萌芽状态。如事故较为严重，有危及人身安全可能时，应及时撤离现场，并通知邻近实验室工作人员迅速撤离，并尽快报警。",
+        "qurl": "\\upload\\theme_picture\\323887c05165b103f513047bfd823cacb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 结构试验的数据采集必须是专人操作。",
+        "qurl": "\\upload\\theme_picture\\395d90e10d59cfb6bda43a2fc93945a5b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在进行结构试验时，同一个实验室内可以使用电焊机等设备。",
+        "qurl": "\\upload\\theme_picture\\8f06c46897c1592306381cdbe0999af2b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 焊接电阻片的电烙铁等工具需要有接地装置。",
+        "qurl": "\\upload\\theme_picture\\8b7e7fb006cd74869c1ce271dbb2c41fb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 在大型结构实验室从事研究工作的人员需在指定区域内工作。",
+        "qurl": "\\upload\\theme_picture\\d474f34dd21cb6820778d8b74b8c0c80b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 测试数据应进行异地备份。",
+        "qurl": "\\upload\\theme_picture\\5584b175b532dffe371395e7d25a8c6eb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 可以使用试验机的计算机连接教育网或公共网。",
+        "qurl": "\\upload\\theme_picture\\8bd2c5ca3e5bd761351f11c422b03b4bb.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 高速设备和精密设备在使用前应请教相关的操作人员。",
+        "qurl": "\\upload\\theme_picture\\31028d0452163f78d968e2220f3318c3b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 试验机的测试数据应分门别类存放，以利于数据备份。",
+        "qurl": "\\upload\\theme_picture\\72cfbe5122270fd674b578783a538835b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    },
+    {
+        "qtext": "题干： 当感到进出专人管理的设备房间不方便时，可以自己配制一把钥匙。",
+        "qurl": "\\upload\\theme_picture\\38140fb7c37cecf2978b9e1553c7449ab.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "B"
+        ]
+    },
+    {
+        "qtext": "题干： 实验室工作人员对所从事实验的性质应比较了解，并严格按照实验程序和操作规程进行实验，对实验中可能出现的情况要有心理准备，一旦出现问题要有应对措施。低年级学生进行危险性较大的实验时应在高年级学生协助或导师直接指导下进行。",
+        "qurl": "\\upload\\theme_picture\\5659051a2660863bc6b4324ffdc48aa1b.jpeg",
+        "qtype": "单选题",
+        "opts": {
+            "A": "对",
+            "B": "错"
+        },
+        "ans": [
+            "A"
+        ]
+    }
+]
